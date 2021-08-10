@@ -1,5 +1,175 @@
 {
-    "users": [
-        
-    ]
+  "users": [
+    {
+      "email": "italo@dkasopkdspo.com",
+      "password": "$2a$10$D1mYX55kYBZec./CyKfiJuYExZf/C1eec/XIyFHIcjli0OO44seA6",
+      "id": 1
+    },
+    {
+      "email": "italo@outlook.com",
+      "password": "$2a$10$V5FhOFXlpkkToYf/ODf.6On828TZH3VO4aHdROC6XQjvNTwsGXuFa",
+      "firstName": "italo",
+      "id": 2
+    },
+    {
+      "email": "italojbraga@gmail.comdsa",
+      "password": "$2a$10$EZlrtgdlBm6EEpfSR7nove2OVgjIFi1ZgPc2.YgGLA7R4v1TkErnG",
+      "cpf": "s",
+      "nome": "Italo",
+      "sobrenome": "Junqueira",
+      "id": 3
+    },
+    {
+      "email": "italojbraga@gmail.comd",
+      "password": "$2a$10$5lnxEAhodN/sRNjqmFu/E.WMEcZb1pfkwvppu3lCrZxzfrjUGpxbK",
+      "cpf": "sdsadsadsa",
+      "nome": "Italo",
+      "sobrenome": "Junqueira",
+      "id": 4
+    },
+    {
+      "email": "dsasda@dsads",
+      "password": "$2a$10$I/hTwWvfFVXninTVxdKHiefoVAGCYZJZvOnFL0u7x/vPOX9WmfDqG",
+      "cpf": "sdadsa",
+      "nome": "sasd",
+      "sobrenome": "dasdas",
+      "id": 5
+    },
+    {
+      "email": "dsasda@dsadsdsadsa",
+      "password": "$2a$10$Q1Or9wKsKXrX9bWCKBNkpOPxp1okvo1hMhx0xp91Q0tr5.1GUNQCG",
+      "cpf": "sdadsa",
+      "nome": "sasd",
+      "sobrenome": "dasdas",
+      "id": 6
+    },
+    {
+      "email": "joao@gmail.com",
+      "password": "$2a$10$rukFAN3ZVdCob6DaVU..Y.ZaM24IFYYmp6g16Oz.YDOmrRNxre7u2",
+      "cpf": "sdadsa",
+      "nome": "sasd",
+      "sobrenome": "dasdas",
+      "id": 7
+    },
+    {
+      "email": "jessica@gmail.com",
+      "password": "$2a$10$pdt0bddpbgrYNQBdzqsRNeEjcu/92UR7aM/V.h57DCYAeSbFyXz.K",
+      "cpf": "dasdjoidjs",
+      "nome": "djsiaojdis",
+      "sobrenome": "dsadsa",
+      "id": 8
+    },
+    {
+      "email": "joaozinho@gmail.com",
+      "password": "$2a$10$BOCjGxy4z5TgmRbqj12iY.XV9CGAi01otMovSVcfhpeUpsxzhr/J6",
+      "cpf": "dasdsa",
+      "nome": "dasdsa",
+      "sobrenome": "dads",
+      "id": 9
+    },
+    {
+      "email": "joaop@gmail.com",
+      "password": "$2a$10$5BbXTpqmYJv8S3cYAziemuNDUeJO95RqmJ7QYR13HMMlrd65Uqfve",
+      "cpf": "aaaaa",
+      "nome": "aaaaa",
+      "sobrenome": "aaaaa",
+      "id": 10
+    },
+    {
+      "email": "asdsda@hotmail.com",
+      "password": "$2a$10$wxHydxQBg.6kb7imUhLPS.NfpuLRsB3LBZnHuFSPEfQ0XU7T/1YAK",
+      "cpf": "dsadas",
+      "nome": "dsadsa",
+      "sobrenome": "dsadsa",
+      "id": 11
+    },
+    {
+      "email": "james@gmail.com",
+      "password": "$2a$10$RgJcKRDzjq1XC4CbyNZZEeqGMY2k6i6Qxbf/UVvf.N7p96aUz4pkm",
+      "cpf": "dsadsa",
+      "nome": "dsads",
+      "sobrenome": "dsadsa",
+      "id": 12
+    },
+    {
+      "email": "itinho@gmail.com",
+      "password": "$2a$10$rX3uXwqKlh/R5vef1Zyt3escnhuAJ.cjc2r1GI1LM95p493TtO7jm",
+      "cpf": "itinho",
+      "nome": "itinho",
+      "sobrenome": "itinho",
+      "id": 13
+    },
+    {
+      "email": "italojbraga@gmail.com",
+      "password": "$2a$10$6WuWiVoFvoeLG2bgI7PN2.DQO4KGT1HP0vpy/tBVJGi2D86yqmAhu",
+      "cpf": "702.339.371-45",
+      "nome": "Italo",
+      "sobrenome": "Junqueira",
+      "id": 14
+    },
+    {
+      "email": "italojbraga@gmail.coma",
+      "password": "$2a$10$H/ogQAMtp5TXFxzv25AO9O./93uJ.LyxQBpy.wLkXVdW3nXDmbIke",
+      "cpf": "702.339.371-45",
+      "nome": "Italo",
+      "sobrenome": "Junqueira",
+      "id": 15
+    },
+    {
+      "email": "italojbraga@gmail.comaa",
+      "password": "$2a$10$izIqv7H8EHXsdIw3EDcApOZjh1jI55tuztNFX55JEwlIYakifeL2q",
+      "cpf": "702.339.371-45",
+      "nome": "Italo",
+      "sobrenome": "Junqueira",
+      "id": 16
+    },
+    {
+      "email": "italojbraga@gmail.cow",
+      "password": "$2a$10$XQFtFHvrkZjxKS8fxQV00O/.HXmfFOOjO/8NbLIe1LovoWhENl6CO",
+      "cpf": "702.339.371-45",
+      "nome": "Italo",
+      "sobrenome": "Junqueira",
+      "id": 17
+    },
+    {
+      "email": "italojbraga@gmail.coa",
+      "password": "$2a$10$HL7IyVRW/h7F97PBnjVPHeId5oTe6CIOy7bzvNfKRvagyCcCN17dK",
+      "cpf": "702.339.371-45",
+      "nome": "Italo",
+      "sobrenome": "Junqueira",
+      "id": 18
+    },
+    {
+      "email": "italojbraga@gmail.coz",
+      "password": "$2a$10$vi9OIcILpbWb2luTl.MAwudKNWCCsXOY3qggY5UzkoZbW2JQX8fty",
+      "cpf": "702.339.371-45",
+      "nome": "Italo",
+      "sobrenome": "Junqueira",
+      "id": 19
+    },
+    {
+      "email": "ddsadsads@gmail.com",
+      "password": "$2a$10$Vz0gD.ElIOaU64u1XijpWOddNAy9pzA7/5WFwD8C1.Sr/rBpzctTW",
+      "cpf": "dasasd",
+      "nome": "dassad",
+      "sobrenome": "sasda",
+      "id": 20
+    },
+    {
+      "email": "italojbraga@gmail.comq",
+      "password": "$2a$10$WKJsrEAuSj1yG36FvBaeD.5CT69zYc5JE1ZPR.nU.cD9CMtQ6lp4m",
+      "cpf": "dsadas",
+      "nome": "Italo",
+      "sobrenome": "Junqueira",
+      "id": 21
+    },
+    {
+      "email": "italo@gmail.com",
+      "password": "$2a$10$uwbsFLPYauiDfWnpWi6NYutWjQId6OA/.xforGeo5MifoQYznd1q2",
+      "cpf": "702.339.371-45",
+      "nome": "Italo",
+      "sobrenome": "Junqueira",
+      "id": 22
+    }
+  ]
 }
