@@ -7,7 +7,8 @@ import Login from './pages/Login';
 import ValidarCampos from './contexts/ValidarCampos';
 import { validarCpf, validarEmail, validarSenha, validarNomes } from './models/validacoes';
 import Home from './pages/Home';
-
+import EditarUsuario from './pages/EditarUsuario';
+import ListagemUsuarios from './pages/ListagemUsuarios';
 const queryClient = new QueryClient()
 
 
@@ -23,6 +24,8 @@ function App() {
                             <Route component={Cadastro} exact path="/" />
                             <Route component={Login} path="/login" />
                             <Route component={Home} path="/home" />
+                            <Route component={ListagemUsuarios} path={"/usuarios"} />
+                            <Route component={EditarUsuario} path="/editar-usuario" />
                         </Switch>
                     </Router>
                 </ValidarCampos.Provider>

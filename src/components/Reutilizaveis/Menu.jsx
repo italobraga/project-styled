@@ -38,7 +38,7 @@ const Menu = () => {
           {""}
           Home
         </Link>
-        <Link className="link-menu-principal">
+        <Link to="/usuarios" className="link-menu-principal">
           <ListIcon className="icons-menu-principal" />
           {""}
           Listagem de Usuários
@@ -55,7 +55,7 @@ const Menu = () => {
         </Link>
       </DivNav>
       <DivNavSair>
-        <Link className="link-menu-principal">
+        <Link to="/"className="link-menu-principal">
           <ExitToAppIcon className="icons-menu-principal" />
           {""}
           Sair
